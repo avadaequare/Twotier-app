@@ -16,4 +16,7 @@ Now as you can access you can type data in the column and it will be stored in p
 You can check postgres container docker exec -it 704079456e63 psql -U postgres -d mydatabase you will get into postgres container you can give /dt to ✅ 
 This will list all tables in your database and then SELECT * FROM data; you will get all data that you have stored in web app.
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/945ea810-5340-4ee7-8925-3a392209cc30" />
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/ef723ed7-3e89-4046-a360-452ed0776c23" />
+
+
+
